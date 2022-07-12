@@ -46,7 +46,7 @@ if you want to run the server as a container install docker and run
 ```
 this will start the server.
 
-open the index.html file from the browser.
+GIVE THE IP OF THE SERVER ALONG WITH THE PORT DEFAULT IS 3000 OR RUN http://localhost:3000/index.html
 
 
 
